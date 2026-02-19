@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-19T17:25:56Z",
+  "generated_at": "2026-02-19T18:05:46Z",
   "summary": {
-    "total_tools": 3,
+    "total_tools": 7,
     "active_tools": 0,
     "total_visits": 0,
     "total_clicks": 0,
@@ -9,6 +9,74 @@
     "rpm_note": "Estimate at $2 RPM; replace with real when AdSense connected"
   },
   "tools": [
+    {
+      "id": 8,
+      "slug": "churn-rate-calculator",
+      "title": "Churn rate calculator",
+      "problem": "Churn rate calculator",
+      "path_rel": "tools/churn-rate-calculator/",
+      "created_at": "2026-02-19T18:04:48Z",
+      "status": "improve",
+      "quality_score": 100,
+      "engagement_score": 0.0,
+      "score_final": 50.0,
+      "visits": 0,
+      "clicks": 0,
+      "last_metrics_at": "2026-02-19T18:05:46Z",
+      "updated_at": "2026-02-19T18:05:46Z",
+      "portal_repo": "saas-metrics-calculators"
+    },
+    {
+      "id": 7,
+      "slug": "customer-retention-rate-calculator",
+      "title": "Customer retention rate calculator",
+      "problem": "Customer retention rate calculator",
+      "path_rel": "tools/customer-retention-rate-calculator/",
+      "created_at": "2026-02-19T18:02:04Z",
+      "status": "improve",
+      "quality_score": 100,
+      "engagement_score": 0.0,
+      "score_final": 50.0,
+      "visits": 0,
+      "clicks": 0,
+      "last_metrics_at": "2026-02-19T18:05:46Z",
+      "updated_at": "2026-02-19T18:05:46Z",
+      "portal_repo": "saas-metrics-calculators"
+    },
+    {
+      "id": 6,
+      "slug": "arr-calculator",
+      "title": "ARR calculator",
+      "problem": "ARR calculator",
+      "path_rel": "tools/arr-calculator/",
+      "created_at": "2026-02-19T18:01:45Z",
+      "status": "improve",
+      "quality_score": 100,
+      "engagement_score": 0.0,
+      "score_final": 50.0,
+      "visits": 0,
+      "clicks": 0,
+      "last_metrics_at": "2026-02-19T18:05:46Z",
+      "updated_at": "2026-02-19T18:05:46Z",
+      "portal_repo": "saas-metrics-calculators"
+    },
+    {
+      "id": 5,
+      "slug": "mrr-calculator",
+      "title": "MRR calculator",
+      "problem": "MRR calculator",
+      "path_rel": "tools/mrr-calculator/",
+      "created_at": "2026-02-19T18:00:55Z",
+      "status": "improve",
+      "quality_score": 100,
+      "engagement_score": 0.0,
+      "score_final": 50.0,
+      "visits": 0,
+      "clicks": 0,
+      "last_metrics_at": "2026-02-19T18:05:46Z",
+      "updated_at": "2026-02-19T18:05:46Z",
+      "portal_repo": "saas-metrics-calculators"
+    },
     {
       "id": 4,
       "slug": "mrr-to-arr-converter",
@@ -22,8 +90,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T17:25:56Z",
-      "updated_at": "2026-02-19T17:25:56Z",
+      "last_metrics_at": "2026-02-19T18:05:46Z",
+      "updated_at": "2026-02-19T18:05:46Z",
       "portal_repo": "saas-metrics-tools"
     },
     {
@@ -39,8 +107,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T17:25:56Z",
-      "updated_at": "2026-02-19T17:25:56Z",
+      "last_metrics_at": "2026-02-19T18:05:46Z",
+      "updated_at": "2026-02-19T18:05:46Z",
       "portal_repo": null
     },
     {
@@ -56,13 +124,103 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T17:25:56Z",
-      "updated_at": "2026-02-19T17:25:56Z",
+      "last_metrics_at": "2026-02-19T18:05:46Z",
+      "updated_at": "2026-02-19T18:05:46Z",
       "portal_repo": "saas-metrics-tools"
     }
   ],
   "blog_posts": [],
   "decisions": [
+    {
+      "id": 12,
+      "tool_id": 8,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:05:46Z",
+      "tool_slug": "churn-rate-calculator"
+    },
+    {
+      "id": 13,
+      "tool_id": 7,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:05:46Z",
+      "tool_slug": "customer-retention-rate-calculator"
+    },
+    {
+      "id": 14,
+      "tool_id": 6,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:05:46Z",
+      "tool_slug": "arr-calculator"
+    },
+    {
+      "id": 15,
+      "tool_id": 5,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:05:46Z",
+      "tool_slug": "mrr-calculator"
+    },
+    {
+      "id": 16,
+      "tool_id": 4,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:05:46Z",
+      "tool_slug": "mrr-to-arr-converter"
+    },
+    {
+      "id": 17,
+      "tool_id": 2,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:05:46Z",
+      "tool_slug": "ltv-calculator"
+    },
+    {
+      "id": 18,
+      "tool_id": 1,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:05:46Z",
+      "tool_slug": "conversion-rate-calculator"
+    },
+    {
+      "id": 9,
+      "tool_id": 4,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T17:29:18Z",
+      "tool_slug": "mrr-to-arr-converter"
+    },
+    {
+      "id": 10,
+      "tool_id": 2,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T17:29:18Z",
+      "tool_slug": "ltv-calculator"
+    },
+    {
+      "id": 11,
+      "tool_id": 1,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T17:29:18Z",
+      "tool_slug": "conversion-rate-calculator"
+    },
     {
       "id": 6,
       "tool_id": 4,
@@ -141,6 +299,11 @@
       "name": "saas-metrics-tools",
       "base_url": "https://magodago.github.io/saas-metrics-tools",
       "label": "Portal principal"
+    },
+    {
+      "name": "saas-metrics-calculators",
+      "base_url": "https://magodago.github.io/saas-metrics-calculators",
+      "label": "Saas Metrics Calculators"
     }
   ]
 }
