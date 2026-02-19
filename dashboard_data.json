@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-02-19T17:25:56Z",
+  "summary": {
+    "total_tools": 3,
+    "active_tools": 0,
+    "total_visits": 0,
+    "total_clicks": 0,
+    "estimated_revenue_usd": 0.0,
+    "rpm_note": "Estimate at $2 RPM; replace with real when AdSense connected"
+  },
+  "tools": [
+    {
+      "id": 4,
+      "slug": "mrr-to-arr-converter",
+      "title": "MRR to ARR converter",
+      "problem": "MRR to ARR converter",
+      "path_rel": "tools/mrr-to-arr-converter/",
+      "created_at": "2026-02-19T17:03:18Z",
+      "status": "improve",
+      "quality_score": 100,
+      "engagement_score": 0.0,
+      "score_final": 50.0,
+      "visits": 0,
+      "clicks": 0,
+      "last_metrics_at": "2026-02-19T17:25:56Z",
+      "updated_at": "2026-02-19T17:25:56Z",
+      "portal_repo": "saas-metrics-tools"
+    },
+    {
+      "id": 2,
+      "slug": "ltv-calculator",
+      "title": "LTV calculator",
+      "problem": "LTV calculator",
+      "path_rel": "tools/ltv-calculator/",
+      "created_at": "2026-02-19T15:13:48Z",
+      "status": "improve",
+      "quality_score": 100,
+      "engagement_score": 0.0,
+      "score_final": 50.0,
+      "visits": 0,
+      "clicks": 0,
+      "last_metrics_at": "2026-02-19T17:25:56Z",
+      "updated_at": "2026-02-19T17:25:56Z",
+      "portal_repo": null
+    },
+    {
+      "id": 1,
+      "slug": "conversion-rate-calculator",
+      "title": "Conversion rate calculator",
+      "problem": "Conversion rate calculator",
+      "path_rel": "tools/conversion-rate-calculator/",
+      "created_at": "2026-02-19T15:08:52Z",
+      "status": "improve",
+      "quality_score": 100,
+      "engagement_score": 0.0,
+      "score_final": 50.0,
+      "visits": 0,
+      "clicks": 0,
+      "last_metrics_at": "2026-02-19T17:25:56Z",
+      "updated_at": "2026-02-19T17:25:56Z",
+      "portal_repo": "saas-metrics-tools"
+    }
+  ],
+  "blog_posts": [],
+  "decisions": [
+    {
+      "id": 6,
+      "tool_id": 4,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T17:25:56Z",
+      "tool_slug": "mrr-to-arr-converter"
+    },
+    {
+      "id": 7,
+      "tool_id": 2,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T17:25:56Z",
+      "tool_slug": "ltv-calculator"
+    },
+    {
+      "id": 8,
+      "tool_id": 1,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T17:25:56Z",
+      "tool_slug": "conversion-rate-calculator"
+    },
+    {
+      "id": 4,
+      "tool_id": 2,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T16:02:58Z",
+      "tool_slug": "ltv-calculator"
+    },
+    {
+      "id": 5,
+      "tool_id": 1,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T16:02:58Z",
+      "tool_slug": "conversion-rate-calculator"
+    },
+    {
+      "id": 2,
+      "tool_id": 2,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T15:14:37Z",
+      "tool_slug": "ltv-calculator"
+    },
+    {
+      "id": 3,
+      "tool_id": 1,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T15:14:37Z",
+      "tool_slug": "conversion-rate-calculator"
+    },
+    {
+      "id": 1,
+      "tool_id": 1,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T15:09:44Z",
+      "tool_slug": "conversion-rate-calculator"
+    }
+  ],
+  "portals": [
+    {
+      "name": "saas-metrics-tools",
+      "base_url": "https://magodago.github.io/saas-metrics-tools",
+      "label": "Portal principal"
+    }
+  ]
+}
