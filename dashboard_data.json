@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T18:05:46Z",
+  "generated_at": "2026-02-19T18:20:25Z",
   "summary": {
     "total_tools": 7,
     "active_tools": 0,
@@ -12,7 +12,7 @@
     {
       "id": 8,
       "slug": "churn-rate-calculator",
-      "title": "Churn rate calculator",
+      "title": "Churn Rate Calculator",
       "problem": "Churn rate calculator",
       "path_rel": "tools/churn-rate-calculator/",
       "created_at": "2026-02-19T18:04:48Z",
@@ -22,8 +22,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T18:05:46Z",
-      "updated_at": "2026-02-19T18:05:46Z",
+      "last_metrics_at": "2026-02-19T18:20:25Z",
+      "updated_at": "2026-02-19T18:20:25Z",
       "portal_repo": "saas-metrics-calculators"
     },
     {
@@ -39,8 +39,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T18:05:46Z",
-      "updated_at": "2026-02-19T18:05:46Z",
+      "last_metrics_at": "2026-02-19T18:20:25Z",
+      "updated_at": "2026-02-19T18:20:25Z",
       "portal_repo": "saas-metrics-calculators"
     },
     {
@@ -56,8 +56,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T18:05:46Z",
-      "updated_at": "2026-02-19T18:05:46Z",
+      "last_metrics_at": "2026-02-19T18:20:25Z",
+      "updated_at": "2026-02-19T18:20:25Z",
       "portal_repo": "saas-metrics-calculators"
     },
     {
@@ -73,8 +73,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T18:05:46Z",
-      "updated_at": "2026-02-19T18:05:46Z",
+      "last_metrics_at": "2026-02-19T18:20:25Z",
+      "updated_at": "2026-02-19T18:20:25Z",
       "portal_repo": "saas-metrics-calculators"
     },
     {
@@ -90,8 +90,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T18:05:46Z",
-      "updated_at": "2026-02-19T18:05:46Z",
+      "last_metrics_at": "2026-02-19T18:20:25Z",
+      "updated_at": "2026-02-19T18:20:25Z",
       "portal_repo": "saas-metrics-tools"
     },
     {
@@ -107,8 +107,8 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T18:05:46Z",
-      "updated_at": "2026-02-19T18:05:46Z",
+      "last_metrics_at": "2026-02-19T18:20:25Z",
+      "updated_at": "2026-02-19T18:20:25Z",
       "portal_repo": null
     },
     {
@@ -124,13 +124,122 @@
       "score_final": 50.0,
       "visits": 0,
       "clicks": 0,
-      "last_metrics_at": "2026-02-19T18:05:46Z",
-      "updated_at": "2026-02-19T18:05:46Z",
+      "last_metrics_at": "2026-02-19T18:20:25Z",
+      "updated_at": "2026-02-19T18:20:25Z",
       "portal_repo": "saas-metrics-tools"
     }
   ],
-  "blog_posts": [],
+  "blog_posts": [
+    {
+      "id": 5,
+      "slug": "common-mistakes-in-saas-metrics-how-to-avoid-them",
+      "title": "Common Mistakes in SaaS Metrics & How to Avoid Them",
+      "path_rel": "blog/common-mistakes-in-saas-metrics-how-to-avoid-them.html",
+      "created_at": "2026-02-19T18:15:34Z",
+      "word_count": 1200,
+      "updated_at": "2026-02-19T18:15:34Z"
+    },
+    {
+      "id": 4,
+      "slug": "saas-metrics-benchmarks-best-practices-a-comprehensive-guide",
+      "title": "SaaS Metrics Benchmarks & Best Practices: A Comprehensive Guide",
+      "path_rel": "blog/saas-metrics-benchmarks-best-practices-a-comprehensive-guide.html",
+      "created_at": "2026-02-19T18:13:48Z",
+      "word_count": 1200,
+      "updated_at": "2026-02-19T18:13:48Z"
+    },
+    {
+      "id": 3,
+      "slug": "how-to-calculate-saas-metrics-step-by-step-a-comprehensive-guide",
+      "title": "How to Calculate SaaS Metrics Step by Step: A Comprehensive Guide",
+      "path_rel": "blog/how-to-calculate-saas-metrics-step-by-step-a-comprehensive-guide.html",
+      "created_at": "2026-02-19T18:11:15Z",
+      "word_count": 1200,
+      "updated_at": "2026-02-19T18:11:15Z"
+    },
+    {
+      "id": 2,
+      "slug": "the-ultimate-guide-to-saas-metrics-tools-free-resources-for-your-startup",
+      "title": "The Ultimate Guide to SaaS Metrics Tools & Free Resources for Your Startup",
+      "path_rel": "blog/the-ultimate-guide-to-saas-metrics-tools-free-resources-for-your-startup.html",
+      "created_at": "2026-02-19T18:09:03Z",
+      "word_count": 1200,
+      "updated_at": "2026-02-19T18:09:03Z"
+    },
+    {
+      "id": 1,
+      "slug": "understanding-saas-metrics-a-comprehensive-guide",
+      "title": "Understanding SaaS Metrics: A Comprehensive Guide",
+      "path_rel": "blog/understanding-saas-metrics-a-comprehensive-guide.html",
+      "created_at": "2026-02-19T18:07:43Z",
+      "word_count": 1200,
+      "updated_at": "2026-02-19T18:07:43Z"
+    }
+  ],
   "decisions": [
+    {
+      "id": 19,
+      "tool_id": 8,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:20:25Z",
+      "tool_slug": "churn-rate-calculator"
+    },
+    {
+      "id": 20,
+      "tool_id": 7,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:20:25Z",
+      "tool_slug": "customer-retention-rate-calculator"
+    },
+    {
+      "id": 21,
+      "tool_id": 6,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:20:25Z",
+      "tool_slug": "arr-calculator"
+    },
+    {
+      "id": 22,
+      "tool_id": 5,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:20:25Z",
+      "tool_slug": "mrr-calculator"
+    },
+    {
+      "id": 23,
+      "tool_id": 4,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:20:25Z",
+      "tool_slug": "mrr-to-arr-converter"
+    },
+    {
+      "id": 24,
+      "tool_id": 2,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:20:25Z",
+      "tool_slug": "ltv-calculator"
+    },
+    {
+      "id": 25,
+      "tool_id": 1,
+      "action": "improve",
+      "score_final": 50.0,
+      "reason": "score 50.0 in [50,70)",
+      "created_at": "2026-02-19T18:20:25Z",
+      "tool_slug": "conversion-rate-calculator"
+    },
     {
       "id": 12,
       "tool_id": 8,
